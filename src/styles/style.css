@@ -1,0 +1,18 @@
+.titulo-react{
+    /*width: 235px;*/
+    padding: 20px 0px;
+    margin-bottom: 20px;
+    /*font-size: 32px;
+    */
+}
+
+.titulo-react h2{
+    content: "";
+    width: 50%;
+    padding: 10px 0;
+    border-bottom: 4px solid #2297DB;
+}
+
+.titulo-react h3{
+    font-weight: 400;
+}
